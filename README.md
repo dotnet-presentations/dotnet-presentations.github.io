@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+# .NET Presentations
 
-You can use the [editor on GitHub](https://github.com/dotnet-presentations/dotnet-presentations.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Decks
+### [What is .NET?](https://github.com/dotnet-presentations/home/tree/master/.NET%20Intro) 
+Level 100 Beginner 45min presentation on what .NET is and how to get started. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### [ASP.NET Core - Security and Identity](https://github.com/dotnet-presentations/home/tree/master/Security/ASP.NET%20Core%202.0)
+Overview of Security and Identity in ASP.NET Core 2.0, including Authorization Policies, Cookie Auth, and TOTP. Demos included.
 
-### Markdown
+## Workshops
+### [ASP.NET Core For Beginners](https://github.com/dotnet-presentations/aspnetcore-for-beginners)
+Are you completely new to .NET? No problem! Here's a half day workshop for developers who have no experience with .NET Core or ASP.NET ASP.NET. We'll start with the basics and build up to a movie database website with search.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### [ASP.NET Core App Workshop](https://github.com/dotnet-presentations/aspnetcore-app-workshop)
+In this workshop, you'll learn by building a full-featured ASP.NET Core application from scratch. We'll start from File/ New and build up to an API back-end application, a web front-end application, and a common library for shared data transfer objects using .NET Standard.
 
-```markdown
-Syntax highlighted code block
+### [.NET Core Workshop](https://github.com/dotnet-presentations/dotnetcore-workshop)
+Are you ready to get started with .NET Core? This one day workshop covers the basics, then digs into web development with ASP.NET Core, 
+.NET Standard, porting from .NET Framework, and containers.
 
-# Header 1
-## Header 2
-### Header 3
+### [ASP.NET Core Authorization Workshop](https://github.com/blowdart/AspNetAuthorizationWorkshop)
+A workshop for moving through the various new pieces in ASP.NET Core Authorization.
 
-- Bulleted
-- List
+### [ASP.NET Core Authentication Workshop](https://github.com/blowdart/AspNetAuthenticationWorkshop)
+A workshop for moving through the various new pieces in ASP.NET Core Authentication.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dotnet-presentations/dotnet-presentations.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### [ASP.NET Core Overview Workshop](https://github.com/dotnet-presentations/aspnetcore-workshop)
+This ASP.NET Core workshop is broken down by topics: middleware, front-end, etc.
