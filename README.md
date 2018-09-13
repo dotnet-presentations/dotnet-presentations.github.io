@@ -1,5 +1,8 @@
 # .NET Presentations
 
+## [.NET Conf 2018](https://github.com/dotnet-presentations/dotnetconf2018)
+Here are the presentations from .NET Conf 2018, along with creative content and info you can use to put on your own [.NET Conf Local event](https://www.dotnetconf.net/local-events)!
+
 ## Decks
 
 ### [What is .NET?](https://github.com/dotnet-presentations/home/tree/master/.NET%20Intro)
