@@ -17,7 +17,7 @@ Overview of Security and Identity in ASP.NET Core 2.0, including Authorization P
 
 ### [ASP.NET Core For Beginners](https://github.com/dotnet-presentations/aspnetcore-for-beginners)
 
-Are you completely new to .NET? No problem! Here's a half day workshop for developers who have no experience with .NET Core or ASP.NET ASP.NET. We'll start with the basics and build up to a movie database website with search.
+Are you completely new to .NET? No problem! Here's a half day workshop for developers who have no experience with .NET Core or ASP.NET. We'll start with the basics and build up to a movie database website with search.
 
 ### [ASP.NET Core App Workshop](https://github.com/dotnet-presentations/aspnetcore-app-workshop)
 
