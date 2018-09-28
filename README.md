@@ -13,6 +13,14 @@ Level 100 Beginner 45min presentation on what .NET is and how to get started!
 
 Overview of Security and Identity in ASP.NET Core 2.0, including Authorization Policies, Cookie Auth, and TOTP. Demos included.
 
+### [Xamarin.Forms - Extend and Optimize](https://github.com/dotnet-presentations/mobile/tree/master/Xamarin.Forms%20-%20Extend%20and%20Optimize)
+
+This deck focuses on the latest developments in Xamarin.Forms that will help developers share more code and build beautiful native iOS and Android apps in less time.
+
+### [Xamarin.Essentials - Cross-platform Native APIs](https://github.com/dotnet-presentations/mobile/tree/master/Xamarin.Essentials)
+
+Xamarin.Essentials, a powerful cross-platform library that provides a clean and lightweight API to access common features on mobile platforms, in your cross-platform C# apps without writing abstractions or platform-specific code.
+
 ## Workshops
 
 ### [ASP.NET Core For Beginners](https://github.com/dotnet-presentations/aspnetcore-for-beginners)
