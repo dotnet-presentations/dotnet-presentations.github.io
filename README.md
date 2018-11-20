@@ -63,3 +63,6 @@ You don’t need to know anything about web programing or ASP.NET Core to get st
 - How to read and write data to a database
 - How to add login, registration, and security
 - How to deploy the app to the web
+
+### [180+ ASP.NET Core Samples](https://github.com/dodyg/practical-aspnetcore)
+Dody has built an amazing collection of over 180 code samples for ASP.NET Core 2.1 and 2.2 fundamentals. These are really focused samples that are quick to set up and run, and he keeps them really up to date.
