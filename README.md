@@ -1,8 +1,3 @@
-# .NET Presentations
-
-## [.NET Conf 2018](https://github.com/dotnet-presentations/dotnetconf2018)
-Here are the presentations from .NET Conf 2018, along with creative content and info you can use to put on your own [.NET Conf Local event](https://www.dotnetconf.net/local-events)!
-
 ## Decks
 
 ### [What is .NET?](https://github.com/dotnet-presentations/home/tree/master/.NET%20Intro)
@@ -12,6 +7,9 @@ Level 100 Beginner 45min presentation on what .NET is and how to get started!
 ### [.NET Today and Tomorow](https://github.com/dotnet-presentations/home/tree/master/.NET%20Keynote)
 
 Overview of the .NET platform, open source ecosystem, features in the latest releases, and the future roadmap of .NET Core 3.0. Great for keynotes.
+
+## [.NET Conf 2018](https://github.com/dotnet-presentations/dotnetconf2018)
+Here are the presentations from .NET Conf 2018, along with creative content and info you can use to put on your own [.NET Conf Local event](https://www.dotnetconf.net/local-events)!
 
 ### [ASP.NET Core - Security and Identity](https://github.com/dotnet-presentations/home/tree/master/Security/ASP.NET%20Core%202.0)
 
