@@ -68,3 +68,6 @@ You don’t need to know anything about web programing or ASP.NET Core to get st
 
 ### [180+ ASP.NET Core Samples](https://github.com/dodyg/practical-aspnetcore)
 Dody has built an amazing collection of over 180 code samples for ASP.NET Core 2.1 and 2.2 fundamentals. These are really focused samples that are quick to set up and run, and he keeps them really up to date.
+
+## Got a suggestion or fix?
+This site, as well as all of our content, is open source. Issues and pull requests for this site can be contributed [here](https://github.com/dotnet-presentations/dotnet-presentations.github.io), and you can contribute to the workshops and decks in their respective repos.
