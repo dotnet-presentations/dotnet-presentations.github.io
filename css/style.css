@@ -201,6 +201,10 @@ p > a {
         color: #e2068c;
     }
 
+    .page-section--purple p > a {
+        color: #fff;
+    }
+
 img {
     max-width: 100%;
 }
