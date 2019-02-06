@@ -69,5 +69,8 @@ You don’t need to know anything about web programing or ASP.NET Core to get st
 ### [180+ ASP.NET Core Samples](https://github.com/dodyg/practical-aspnetcore)
 Dody has built an amazing collection of over 180 code samples for ASP.NET Core 2.1 and 2.2 fundamentals. These are really focused samples that are quick to set up and run, and he keeps them really up to date.
 
+### [Akka.NET Bootcamp](https://github.com/petabridge/akka-bootcamp)
+A step-by-step, self-paced tutorial for learning the basics of the actor model and Akka.NET syntax. You'll learn how to create your own actors, how to use them to build highly concurrent applications safely and easily, and you'll learn how to integrate actors with other popular .NET technologies such as the Task and Parallelism Library (TPL.)
+
 ## Got a suggestion or fix?
 This site, as well as all of our content, is open source. Issues and pull requests for this site can be contributed [here](https://github.com/dotnet-presentations/dotnet-presentations.github.io), and you can contribute to the workshops and decks in their respective repos.
