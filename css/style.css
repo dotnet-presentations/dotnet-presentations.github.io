@@ -126,6 +126,9 @@ p {
         padding-top: 2rem;
         padding-bottom: 2rem;
     }
+    .site-button_row {
+        flex-direction: column;
+    }
 }
 
 .page-section_column.color-fix--white {
