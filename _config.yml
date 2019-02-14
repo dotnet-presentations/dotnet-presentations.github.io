@@ -1,3 +1,6 @@
 theme: jekyll-theme-minimal
 title: ".NET Presentations: Events in a Box!"
 description: "Welcome to .NET \"Presentations in a Box.\"  We have a listing of workshops and presentations YOU can use AND contribute to! Remix and share, and present at Meetups, User Groups, CodeCamps, or Conferences! Not familiar with .NET? Download open source .NET Core for any OS at <a href=\"http://dot.net\">http://dot.net</a> or try it in your browser at <a href=\"http://try.dot.net\">http://try.dot.net</a> now!"
+
+# Google Analytics
+google_analytics: UA-57261022-1
