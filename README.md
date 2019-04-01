@@ -15,6 +15,9 @@ Here are the presentations from .NET Conf 2018, along with creative content and 
 
 Overview of Security and Identity in ASP.NET Core 2.0, including Authorization Policies, Cookie Auth, and TOTP. Demos included.
 
+### [Introduction to Mobile Development with Xamarin](https://github.com/dotnet-presentations/mobile/tree/master/Introduction%20to%20Mobile%20Development%20with%20Xamarin)
+Complete walkthrough of mobile development with Xamarin. This includes how Xamarin integrates into the .NET ecosystem to build iOS, Android, macOS, tvOS, and watchOS apps with .NET and Visual Studio. This goes through all of the essential pieces to development with Xamarin.
+
 ### [Xamarin.Forms - Extend and Optimize](https://github.com/dotnet-presentations/mobile/tree/master/Xamarin.Forms%20-%20Extend%20and%20Optimize)
 
 This deck focuses on the latest developments in Xamarin.Forms that will help developers share more code and build beautiful native iOS and Android apps in less time.
