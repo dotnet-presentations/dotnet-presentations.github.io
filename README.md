@@ -1,3 +1,30 @@
+## Workshops
+
+### [Blazor Workshop](https://github.com/dotnet-presentations/blazor-workshop/) ![](https://img.shields.io/github/last-commit/dotnet-presentations/blazor-workshop.svg?style=flat)
+
+Blazor is an experimental single-page app framework for building client-side web apps using .NET and WebAssembly. In this workshop we will build a complete Blazor app and learn about the various Blazor framework features along the way.
+
+### [ASP.NET Core For Beginners](https://github.com/dotnet-presentations/aspnetcore-for-beginners) ![](https://img.shields.io/github/last-commit/dotnet-presentations/aspnetcore-for-beginners.svg?style=flat)
+
+Are you completely new to .NET? No problem! Here's a half day workshop for developers who have no experience with .NET Core or ASP.NET. We'll start with the basics and build up to a movie database website with search.
+
+### [ASP.NET Core App Workshop](https://github.com/dotnet-presentations/aspnetcore-app-workshop) ![](https://img.shields.io/github/last-commit/dotnet-presentations/aspnetcore-app-workshop.svg?style=flat)
+
+In this workshop, you'll learn by building a full-featured ASP.NET Core application from scratch. We'll start from File/ New and build up to an API back-end application, a web front-end application, and a common library for shared data transfer objects using .NET Standard.
+
+### [.NET Core Workshop](https://github.com/dotnet-presentations/dotnetcore-workshop)
+
+Are you ready to get started with .NET Core? This one day workshop covers the basics, then digs into web development with ASP.NET Core,
+.NET Standard, porting from .NET Framework, and containers.
+
+### [ASP.NET Core Authorization Workshop](https://github.com/blowdart/AspNetAuthorizationWorkshop)
+
+A workshop for moving through the various new pieces in ASP.NET Core Authorization.
+
+### [ASP.NET Core Overview Workshop](https://github.com/dotnet-presentations/aspnetcore-workshop)
+
+This ASP.NET Core workshop is broken down by topics: middleware, front-end, etc.
+
 ## Presentation Decks
 
 ### [What is .NET?](https://github.com/dotnet-presentations/home/tree/master/.NET%20Intro)
@@ -25,33 +52,6 @@ This deck focuses on the latest developments in Xamarin.Forms that will help dev
 ### [Xamarin.Essentials - Cross-platform Native APIs](https://github.com/dotnet-presentations/mobile/tree/master/Xamarin.Essentials)
 
 Xamarin.Essentials, a powerful cross-platform library that provides a clean and lightweight API to access common features on mobile platforms, in your cross-platform C# apps without writing abstractions or platform-specific code.
-
-## Workshops
-
-### [Blazor Workshop](https://github.com/dotnet-presentations/blazor-workshop/) ![](https://img.shields.io/github/last-commit/dotnet-presentations/blazor-workshop.svg?style=flat)
-
-Blazor is an experimental single-page app framework for building client-side web apps using .NET and WebAssembly. In this workshop we will build a complete Blazor app and learn about the various Blazor framework features along the way.
-
-### [ASP.NET Core For Beginners](https://github.com/dotnet-presentations/aspnetcore-for-beginners) ![](https://img.shields.io/github/last-commit/dotnet-presentations/aspnetcore-for-beginners.svg?style=flat)
-
-Are you completely new to .NET? No problem! Here's a half day workshop for developers who have no experience with .NET Core or ASP.NET. We'll start with the basics and build up to a movie database website with search.
-
-### [ASP.NET Core App Workshop](https://github.com/dotnet-presentations/aspnetcore-app-workshop) ![](https://img.shields.io/github/last-commit/dotnet-presentations/aspnetcore-app-workshop.svg?style=flat)
-
-In this workshop, you'll learn by building a full-featured ASP.NET Core application from scratch. We'll start from File/ New and build up to an API back-end application, a web front-end application, and a common library for shared data transfer objects using .NET Standard.
-
-### [.NET Core Workshop](https://github.com/dotnet-presentations/dotnetcore-workshop)
-
-Are you ready to get started with .NET Core? This one day workshop covers the basics, then digs into web development with ASP.NET Core,
-.NET Standard, porting from .NET Framework, and containers.
-
-### [ASP.NET Core Authorization Workshop](https://github.com/blowdart/AspNetAuthorizationWorkshop)
-
-A workshop for moving through the various new pieces in ASP.NET Core Authorization.
-
-### [ASP.NET Core Overview Workshop](https://github.com/dotnet-presentations/aspnetcore-workshop)
-
-This ASP.NET Core workshop is broken down by topics: middleware, front-end, etc.
 
 ## Community E-Books and Tutorials
 
