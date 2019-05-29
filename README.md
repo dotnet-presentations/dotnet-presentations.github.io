@@ -12,7 +12,7 @@ Are you completely new to .NET? No problem! Here's a half day workshop for devel
 
 In this workshop, you'll learn by building a full-featured ASP.NET Core application from scratch. We'll start from File/ New and build up to an API back-end application, a web front-end application, and a common library for shared data transfer objects using .NET Standard.
 
-### [.NET Core Workshop](https://github.com/dotnet-presentations/dotnetcore-workshop)
+### [.NET Core Workshop](https://github.com/dotnet-presentations/dotnetcore-workshop) ![](https://img.shields.io/github/last-commit/dotnet-presentations/dotnetcore-workshop.svg?style=flat)
 
 Are you ready to get started with .NET Core? This one day workshop covers the basics, then digs into web development with ASP.NET Core,
 .NET Standard, porting from .NET Framework, and containers.
