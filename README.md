@@ -69,8 +69,8 @@ You don’t need to know anything about web programing or ASP.NET Core to get st
 - How to add login, registration, and security
 - How to deploy the app to the web
 
-### [180+ ASP.NET Core Samples](https://github.com/dodyg/practical-aspnetcore)
-Dody has built an amazing collection of over 180 code samples for ASP.NET Core 2.1 and 2.2 fundamentals. These are really focused samples that are quick to set up and run, and he keeps them really up to date.
+### [250+ ASP.NET Core Samples](https://github.com/dodyg/practical-aspnetcore)
+Dody has built an amazing collection of over 180 code samples for ASP.NET Core 2.1, 2.2, and 3.0 fundamentals. These are really focused samples that are quick to set up and run, and he keeps them really up to date.
 
 ### [Akka.NET Bootcamp](https://github.com/petabridge/akka-bootcamp)
 A step-by-step, self-paced tutorial for learning the basics of the actor model and Akka.NET syntax. You'll learn how to create your own actors, how to use them to build highly concurrent applications safely and easily, and you'll learn how to integrate actors with other popular .NET technologies such as the Task and Parallelism Library (TPL.)
