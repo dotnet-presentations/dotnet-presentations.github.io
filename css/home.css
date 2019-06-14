@@ -109,6 +109,6 @@
     height: 100%;
     background-color: rgba(104, 33, 122, 0.2); }
 
-main {
+main.col {
   padding: 0;
 }
