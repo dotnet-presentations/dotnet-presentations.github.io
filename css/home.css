@@ -108,3 +108,7 @@
     width: 100%;
     height: 100%;
     background-color: rgba(104, 33, 122, 0.2); }
+
+main {
+  padding: 0;
+}
