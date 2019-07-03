@@ -17,14 +17,14 @@ In this workshop, you'll learn by building a full-featured ASP.NET Core applicat
 Are you ready to get started with .NET Core? This one day workshop covers the basics, then digs into web development with ASP.NET Core,
 .NET Standard, porting from .NET Framework, and containers.
 
-### [ASP.NET Core Authorization Workshop](https://github.com/blowdart/AspNetAuthorizationWorkshop)![GitHub last commit (branch)](https://img.shields.io/github/last-commit/blowdart/AspNetAuthorizationWorkshop/master.svg)
+### [ASP.NET Core Authorization Workshop](https://github.com/blowdart/AspNetAuthorizationWorkshop) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/blowdart/AspNetAuthorizationWorkshop/master.svg)
 
 A workshop for moving through the various new pieces in ASP.NET Core Authorization.
 
-### [ASP.NET Core Overview Workshop](https://github.com/dotnet-presentations/aspnetcore-workshop)![GitHub last commit (branch)](https://img.shields.io/github/last-commit/dotnet-presentations/aspnetcore-concepts-workshop/master.svg)
+### [ASP.NET Core Overview Workshop](https://github.com/dotnet-presentations/aspnetcore-workshop) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/dotnet-presentations/aspnetcore-concepts-workshop/master.svg)
 
 This ASP.NET Core workshop is broken down by topics: middleware, front-end, etc.
-    
+
 ## Presentation Decks
 
 ### [What is .NET?](https://github.com/dotnet-presentations/home/tree/master/.NET%20Intro)
