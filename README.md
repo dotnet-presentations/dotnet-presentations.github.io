@@ -53,6 +53,10 @@ This deck focuses on the latest developments in Xamarin.Forms that will help dev
 
 Xamarin.Essentials, a powerful cross-platform library that provides a clean and lightweight API to access common features on mobile platforms, in your cross-platform C# apps without writing abstractions or platform-specific code.
 
+### [Crafting Real-time Mobile Apps with Xamarin & SignalR](https://github.com/dotnet-presentations/xamarin/tree/master/SignalR-%20Real-time%20Communication%20for%20Xamarin)
+
+Stop polling and enable bi-directional communication between your server and mobile apps, in real-time. Better yet share all your real-time communication business logic between iOS and Android Xamarin apps with .NET Standard and SignalR.
+
 ## Community E-Books and Tutorials
 
 ### [Build an Airport Explorer with ASP.NET Core](https://www.jerriepelser.com/books/airport-explorer)
