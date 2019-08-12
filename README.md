@@ -61,6 +61,10 @@ Stop polling and enable bi-directional communication between your server and mob
 
 ## Community E-Books and Tutorials
 
+### [ASP.NET Core A-Z e-book](https://wakeupandcode.com/release-asp-net-core-a-z-ebook/)
+
+This is a great way to learn ASP.NET Core key concepts, with A-Z deep dives on important concepts and features from "Authentication & Authorization" to "Zero-Downtime Web Apps".
+
 ### [Build an Airport Explorer with ASP.NET Core](https://www.jerriepelser.com/books/airport-explorer)
 
 This free e-book guides you through creating a really cool application using ASP.NET Core Razor Pages, AJAX, 3rd party APIs, mapping, data integration with CSV source data, and more.
