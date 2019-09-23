@@ -1,18 +1,18 @@
 ## Workshops
 
-### [Blazor Workshop](https://github.com/dotnet-presentations/blazor-workshop/) ![](https://img.shields.io/github/last-commit/dotnet-presentations/blazor-workshop.svg?style=flat)
-
-Blazor is a single-page app framework for building client-side web apps using .NET and WebAssembly. In this workshop we will build a complete Blazor app and learn about the various Blazor framework features along the way.
-
 ### [ASP.NET Core For Beginners](https://github.com/dotnet-presentations/aspnetcore-for-beginners) ![](https://img.shields.io/github/last-commit/dotnet-presentations/aspnetcore-for-beginners.svg?style=flat)
 
 Are you completely new to .NET? No problem! Here's a half day workshop for developers who have no experience with .NET Core or ASP.NET. We'll start with the basics and build up to a movie database website with search.
 
-### [ASP.NET Core App Workshop](https://github.com/dotnet-presentations/aspnetcore-app-workshop) ![](https://img.shields.io/github/last-commit/dotnet-presentations/aspnetcore-app-workshop.svg?style=flat)
+### [Blazor Workshop]<!--(https://github.com/dotnet-presentations/blazor-workshop/) ![](https://img.shields.io/github/last-commit/dotnet-presentations/blazor-workshop.svg?style=flat)-->
+
+Blazor is a single-page app framework for building client-side web apps using .NET and WebAssembly. In this workshop we will build a complete Blazor app and learn about the various Blazor framework features along the way.
+
+### [ASP.NET Core App Workshop]<!--(https://github.com/dotnet-presentations/aspnetcore-app-workshop) ![](https://img.shields.io/github/last-commit/dotnet-presentations/aspnetcore-app-workshop.svg?style=flat)-->
 
 In this workshop, you'll learn by building a full-featured ASP.NET Core application from scratch. We'll start from File/ New and build up to an API back-end application, a web front-end application, and a common library for shared data transfer objects using .NET Standard.
 
-### [.NET Core Workshop](https://github.com/dotnet-presentations/dotnetcore-workshop) ![](https://img.shields.io/github/last-commit/dotnet-presentations/dotnetcore-workshop.svg?style=flat)
+### [.NET Core Workshop]<!--(https://github.com/dotnet-presentations/dotnetcore-workshop) ![](https://img.shields.io/github/last-commit/dotnet-presentations/dotnetcore-workshop.svg?style=flat)-->
 
 Are you ready to get started with .NET Core? This one day workshop covers the basics, then digs into web development with ASP.NET Core,
 .NET Standard, porting from .NET Framework, and containers.
