@@ -89,5 +89,8 @@ Dody has built an amazing collection of over 180 code samples for ASP.NET Core 2
 ### [Akka.NET Bootcamp](https://github.com/petabridge/akka-bootcamp)
 A step-by-step, self-paced tutorial for learning the basics of the actor model and Akka.NET syntax. You'll learn how to create your own actors, how to use them to build highly concurrent applications safely and easily, and you'll learn how to integrate actors with other popular .NET technologies such as the Task and Parallelism Library (TPL.)
 
+### [Advanced C# for Low-Level Programming](https://github.com/Firwood-Software/AdvancedCSharpForLowLevelProgramming)
+This book aims to get you to learn lower level programming in C#.
+
 ## Got a suggestion or fix?
 This site, as well as all of our content, is open source. Issues and pull requests for this site can be contributed [here](https://github.com/dotnet-presentations/dotnet-presentations.github.io), and you can contribute to the workshops and decks in their respective repos.
