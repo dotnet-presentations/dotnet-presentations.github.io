@@ -1,4 +1,4 @@
-## [.NET Conf 2019](https://github.com/dotnet-presentations/dotnetconf2019) ![](https://img.shields.io/github/last-commit/dotnet-presentations/dotnetconf2019.svg?style=flat)
+## [.NET Conf 2019](https://github.com/dotnet-presentations/dotNETConf/tree/master/2019) ![](https://img.shields.io/github/last-commit/dotnet-presentations/dotnetconf2019.svg?style=flat)
 
 Here are the presentations from .NET Conf 2019, along with creative content and info you can use to put on your own [.NET Conf Local event](https://www.dotnetconf.net/local-events)!
 
